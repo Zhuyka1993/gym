@@ -2,6 +2,7 @@
   "name": "gym",
   "version": "0.1.0",
   "private": true,
+"homepage": "https://Zhuyka1993.github.io/gym/"
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
